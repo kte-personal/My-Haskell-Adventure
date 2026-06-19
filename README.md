@@ -1,2 +1,2 @@
 # My-Haskell-Adventure
-A collection of my brain throughts, while reading: Programming in Haskell, Second Edition. By Graham Hutton 
+A snippet of useful or neat Haskell properties, with annotations why I think it's neat or useful
