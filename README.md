@@ -37,4 +37,13 @@ Outputs:
 4
 ```
 
-Note: Some haskellers might punch me for saying that a list of integers is a sequence in a space. Because that's techincally not true.
+> [!NOTE]
+> Takeaway 1. Haskell describes the relationships between spaces, rather than discrete values.
+
+> [!WARNING]
+> Some haskellers might punch me for saying that a list of integers is a sequence in a space. Because that's techincally not true.
+> But we'll get into that, when we reach functors.
+
+
+Quotes for later use
+<!-- By making IO a Monad, Haskell uses the bind operator (>>=) to force sequencing. -->
