@@ -10,7 +10,7 @@ nope False = True
 -- Lets create a simple program:
 -- Define my own type, which has values of: yes, nar. Which has opposite values.
 -- Then define a morphism which takes in in a yes or nar and morphs into nar or yes
-data MyType where
+data MyType where -- Syntax came from: https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/gadt.html
     Yes :: MyType
     Nar :: MyType
     deriving (Show) -- So we can print
